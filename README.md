@@ -12,6 +12,6 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-image]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.eu.svg
 
-[Pubmed link](https://www.ncbi.nlm.nih.gov/pubmed/33827920)
+[Pubmed link](https://www.ncbi.nlm.nih.gov/pubmed/33827920)<br>
 [PNAS link](https://www.pnas.org/content/118/15/e2019053118.long)
 
